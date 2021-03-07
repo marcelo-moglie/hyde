@@ -83,11 +83,10 @@ html {
   font-size: 3rem;
 }
 
-.sidebar-about /h1 {
+.lead h1 {
   color: #fff;
-  margin-top: 0;
   font-family: "Arial";
-  font-size: 1.2rem;
+  font-size: 1rem;
 }
 
 /* Sidebar nav */
