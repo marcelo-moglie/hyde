@@ -5,7 +5,7 @@ title: Introducing Hyde
 
 Hyde is a brazen two-column [Jekyll](https://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](https://getpoole.com), the Jekyll butler.
 
-http://marcelo-moglie.github.io/web/image/Images.png
+<img '/images/Image.jpg' >
 
 ### Built on Poole
 
