@@ -80,13 +80,13 @@ html {
   color: #fff;
   margin-top: 0;
   font-family: "Helvetica";
-  font-size: 3rem;
+  font-size: 8rem;
 }
 
-.lead {
+.lead p{
   color: #fff;
   font-family: "Arial";
-  font-size: 1rem;
+  font-size: 0.5rem;
 }
 
 /* Sidebar nav */
