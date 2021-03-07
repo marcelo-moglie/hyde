@@ -1,8 +1,8 @@
 # Setup
 title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              https://hyde.getpoole.com
+tagline:          'Marcelo J. Moglie'
+description:      'A Postdoc at <a href="https://www.crick.ac.uk/" target="_blank">The Francis Crick Institute</a>'
+url:              https://marcelo-moglie.github.io/web
 baseurl:          ''
 paginate:         5
 
