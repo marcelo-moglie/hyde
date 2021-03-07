@@ -3,7 +3,7 @@ title:            Marcelo J. Moglie
 tagline:          ''
 description:      'A Postdoc at <a href="https://www.crick.ac.uk/" target="_blank">The Francis Crick Institute</a>'
 url:              https://marcelo-moglie.github.io/web/
-baseurl:          'https://marcelo-moglie.github.io/web'
+baseurl:          ''
 paginate:         5
 
 # About and contact
