@@ -83,15 +83,23 @@ html {
   font-size: 3rem;
 }
 
+.sidebar-about /h1 {
+  color: #fff;
+  margin-top: 0;
+  font-family: "Arial";
+  font-size: 1.2rem;
+}
+
 /* Sidebar nav */
 .sidebar-nav {
   margin-bottom: 1rem;
 }
+
 .sidebar-nav-item {
   display: block;
   line-height: 1.75;
-  font-size: 1.2rem;
-}
+ }
+
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
   text-decoration: underline;
