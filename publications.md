@@ -16,14 +16,17 @@ There are currently two themes built on Poole:
 
 Learn more and contribute on [GitHub](https://github.com/poole).
 
-## Setup
+<!-- High Dimensional Statistics -->
+<h3  class="pubyear">High Dimensional Statistics</h3>
+{% bibliography -f hds %}
 
-Some fun facts about the setup of this project include:
+<!-- Social Network Analysis --> 
+<h3  class="pubyear">Social Network Analysis</h3>
+{% bibliography -f sna %}
 
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
+{% for y in page.years %}
+  <h3  id="{{y}}" class="pubyear">{{y}}</h3>
+  {% bibliography -f papers -q @*[year={{y}}]* %}
+{% endfor %}
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
-Thanks for reading!
