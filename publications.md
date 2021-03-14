@@ -14,4 +14,6 @@ There are currently two themes built on Poole:
 * [Hyde](https://hyde.getpoole.com)
 * [Lanyon](https://lanyon.getpoole.com)
 
-<script src="https://bibbase.org/show?bib=https://bibbase.github.io/pubs_without_questionmarks.bib&jsonp=1"></script>
+<h2>Publications</h2>
+
+<script src="https://bibbase.org/show?bib=https://github.com/marcelo-moglie/web/biblio.bib&jsonp=1"></script>
