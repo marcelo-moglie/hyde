@@ -16,4 +16,4 @@ There are currently two themes built on Poole:
 
 <h2>Publications</h2>
 
-<script src="https://bibbase.org/show?bib=https://github.com/marcelo-moglie/web/biblio.bib&jsonp=1"></script>
+<script src="https://bibbase.org/show?bib=https://github.com/marcelo-moglie/web/blob/v3/biblio.bib&jsonp=1"></script>
