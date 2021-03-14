@@ -16,4 +16,8 @@ There are currently two themes built on Poole:
 
 <h2>Publications</h2>
 
-<?php $contents = file_get_contents("https://bibbase.org/show?bib=https%3A%2F%2Fmarcelo-moglie.github.io%2Fweb%2Fbiblio.bib&commas=true"); print_r($contents); ?>
+<hr>
+
+        <h2>Publications</h2>
+
+        <script src="https://bibbase.org/show?bib=https://bibbase.github.io/pubs_without_questionmarks.bib&jsonp=1"></script>
