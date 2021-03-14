@@ -14,8 +14,4 @@ There are currently two themes built on Poole:
 * [Hyde](https://hyde.getpoole.com)
 * [Lanyon](https://lanyon.getpoole.com)
 
-<!-- Custom JavaScript files set in YAML front matter -->
-{% for js in page.customjs %}
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Fmarcelo-moglie.github.io%2Fweb%2Fbiblio.bib&commas=true&jsonp=1"></script>
-{% endfor %}
-
+<?php $contents = file_get_contents("https://bibbase.org/show?bib=https%3A%2F%2Fmarcelo-moglie.github.io%2Fweb%2Fbiblio.bib&commas=true"); print_r($contents); ?>
